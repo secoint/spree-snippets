@@ -1,4 +1,11 @@
 ru:
+  activerecord:
+    attributes:
+      snippet:
+        is_active: "Отображать"
+        slug: "Код сниппета"
+        content: "Содержимое"
+
   snippets: "Сниппеты"
   snippets_desc: "Управление сниппетами из админки через WYM editor"
   snippets_slug: "Код"
