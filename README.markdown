@@ -25,8 +25,7 @@ Add to Gemfile:
 
 Run:
     bundle install
-    rake spree_snippets:install
-    rake db:migrate
+    rails g spree_snippets:install
 
 Snippet CRUD
 ------------
